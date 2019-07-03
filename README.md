@@ -13,7 +13,7 @@ The aim of this project was to answer several specific questions:
 
 
 Looking back on it, this was implemented pretty poorly. However, this was also one of the single most valuable projects I have ever done in a school setting and I am proud of the creativity that it took to complete.
-I'd like to revisit this at some point, but in the meantime I will leave my ideas here for people to check out.
+I'd like to revisit this at some point, but in the meantime I will leave my ideas here for people to check out. Please note that I did not upload the raw data. This is mostly because they are massive files, but also because there is no need. All the data is freely available on the web, or you can get it for free by using the scripts here.
 
 
 You can see the final web app [here](https://uvm.maps.arcgis.com/apps/webappviewer/index.html?id=340a33fb64094eeaa64ec18bc25151c3)
