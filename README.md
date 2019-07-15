@@ -1,9 +1,9 @@
 # The Geography of Gratitude
 ## A natural language processing + cultural ecosystem services + geography project
-### Done with about 14 days notice and only one prior programming class under my belt
+### Done with one prior programming class under my belt and a lotttttttt of coffee
 
 The goal of this project was to investigate what Americans are thankful for on Thanksgiving, or at least what they say they are thankful for on Twitter.
-The aim of this project was to answer several specific questions:
+The aims of this project were to answer several specific questions:
 
 
 1. Is there a semantic difference in what Americans are grateful for based on the type of land they tweet from on Thanksgiving
@@ -12,7 +12,7 @@ The aim of this project was to answer several specific questions:
 3. What do individual states disproportionately tweet about?
 
 
-Looking back on it, this was implemented pretty poorly. However, this was also one of the single most valuable projects I have ever done in a school setting and I am proud of the creativity that it took to complete.
+Looking back on it, this was implemented pretty jankily. However, this was also one of the single most valuable projects I have ever done in a school setting and I am proud of the creativity that it took to complete.
 I'd like to revisit this at some point, but in the meantime I will leave my ideas here for people to check out. **Please note that I did not upload the raw data**. This is mostly because they are massive files, but also because there is no need. All the data is freely available on the web, or you can get it for free by using the scripts here.
 
 
