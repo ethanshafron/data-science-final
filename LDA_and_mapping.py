@@ -5,7 +5,7 @@ Created on Mon Nov 19 14:56:44 2018
 
 @author: ethanshafron
 """
-### Spatial data and data frame manipulation/plotting
+### Spatial data and data frame manipulation/plotting ###
 import geopandas as gpd
 from ProcessingTweets import TweetsToShapefile, clean
 import matplotlib.pyplot as plt
@@ -15,13 +15,13 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
-### Text processing
+### Text processing ###
 import re
 import nltk
 from nltk.stem import WordNetLemmatizer
 import spacy
 
-### LDA Modeling
+### LDA Modeling ###
 import gensim
 import gensim.corpora as corpora
 from gensim.utils import simple_preprocess
